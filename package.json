@@ -1,4 +1,5 @@
 {
+  "id": "vscode-for-research",
   "name": "vscode-for-research",
   "displayName": "VSCode for Research",
   "description": "",
@@ -6,6 +7,11 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "publisher": "aerithnetzer",
+  "publisher id": "AerithNetzer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aerithnetzer/vscode-for-research"},
   "categories": [
     "Extension Packs"
   ],
